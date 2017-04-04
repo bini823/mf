@@ -32,7 +32,7 @@ http://www.finmin.nic.in/fm-webcast</td><br>
 <tr>
 <th>Image Alt Test</th>
 <td>Required 'alt' attribute.</td>
-<td><img id="user-content-t007-10048" alt="images/line.gif" src="/bini823/npi/raw/gh-pages/images/line_image-1-.png" width="108" height="65" style="max-width:100%;"></td><br>
+<td><img id="user-content-t007-10048" alt="images" src="/bini823/npi/raw/gh-pages/images/line_image-1-.png" width="108" height="65" style="max-width:100%;"></td><br>
 </tr>
 <tr>
 <th>Inline CSS Test</th>
@@ -55,11 +55,11 @@ http://www.finmin.nic.in/fm-webcast</td><br>
 <tr>
 <th>Page Authority</th>
 <td>It is good to have domain authority more than 20.</td>
-1.Build links to the page you're optimizing.<br>
+<td>1.Build links to the page you're optimizing.<br>
 2.Spread the link juice from pages with high PA to those with less.<br>
 3.Make sure each page is packed with useful content.<br>
 4.Build your DomainAuthority.<br>
-5.Regularly remove harmful links to your page.<br>
+5.Regularly remove harmful links to your page.</td><br>
 </tr>
 <tr>
 <th>HTML Page Size Test</th>
