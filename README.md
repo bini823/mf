@@ -34,7 +34,7 @@ table#t01 th {
   <th>Page Title</th>
   <td>The Page title length of your page is <b>46</b> characters.</td>
   <td>Most search engines will truncate Page title to <b>65</b> characters.<br><br>
-  <b>Eg:-Home: Ministry of Finance, Government of India</b><br>
+  <b>Eg:-</b>Home: Ministry of Finance, Government of India<br>
   <b>(24 characters)</b></td>
   </tr>
   <tr>
