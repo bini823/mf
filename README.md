@@ -22,7 +22,7 @@ table#t01 th {
 </style>
 </head>
 <body>
-<h1 background color="grey">Ministry of Finance</h1><hr>
+<h1>Ministry of Finance</h1><hr>
 <h3>SEO Report</h3>
 <table id="t01">
   <tr>
