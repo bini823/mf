@@ -121,7 +121,7 @@ table#t01 th {
 <td>Your webpage has <b>257</b> 'img' tags and <b>11</b> of them missing the required 'alt' attribute.</td>
 
 <td>Required 'alt' attribute.<br><br>
-<img id="t007-10048" style="width: 100%; height: auto;" alt="favicon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/80px-Emblem_of_India.svg.png"  width ="108" height ="65" /></td>
+<img id="t007-10048" style="width: 100%; height: auto;" alt="favicon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/80px-Emblem_of_India.svg.png"  width ="10" height ="10" /></td>
 
 </tr>
 <tr>
@@ -141,9 +141,9 @@ Remove inline css and add it in external css file.</td>
 You need to start with a square image. When you have the image you want, name it favicon.ico. 
 Now you need to use an FTP client and upload it to your document root directory. This is important, so if you don't know what your document root directory is, 
 ask your hosting provider. Now just add a little html code to your web pages so the the favicon will show up. This can be before or after the title tags. 
-Click on save, and now you have a favicon of your own.</td>
-<td>
-<img id="t007-10048" style="width: 100%; height: auto;" alt="favicon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/80px-Emblem_of_India.svg.png"  width ="108" height ="65" />
+Click on save, and now you have a favicon of your own.
+<br>
+<img id="t007-10048" style="width: 100%; height: auto;" alt="favicon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/80px-Emblem_of_India.svg.png"  width ="10" height ="10" />
 </td>
 </tr>
 <tr>
