@@ -154,7 +154,7 @@ Now you need to use an FTP client and upload it to your document root directory.
 ask your hosting provider. Now just add a little html code to your web pages so the the favicon will show up. This can be before or after the title tags. 
 Click on save, and now you have a favicon of your own.
 <br>
-<img id="t007-10048" style="width: 100%; height: auto;" alt="image" src="/images/i_image-1-.png"  width ="108" height ="65" />
+
 </td>
 </tr>
 <tr>
