@@ -142,6 +142,7 @@ You need to start with a square image. When you have the image you want, name it
 Now you need to use an FTP client and upload it to your document root directory. This is important, so if you don't know what your document root directory is, 
 ask your hosting provider. Now just add a little html code to your web pages so the the favicon will show up. This can be before or after the title tags. 
 Click on save, and now you have a favicon of your own.</td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/80px-Emblem_of_India.svg.png"></td>
 </tr>
 <tr>
   <th>Deprecated HTML Tags</th>
