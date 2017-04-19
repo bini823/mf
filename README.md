@@ -121,7 +121,7 @@ table#t01 th {
 <td>Your webpage has <b>257</b> 'img' tags and <b>11</b> of them missing the required 'alt' attribute.</td>
 
 <td>Required 'alt' attribute.<br><br>
-<img id="t007-10048" style="width: 100%; height: auto;" alt="image" src="/images/f_image-1-.png"  width ="108" height ="65" /></td>
+<img id="t007-10048" style="width: 100%; height: auto;" alt="favicon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/80px-Emblem_of_India.svg.png"  width ="108" height ="65" /></td>
 
 </tr>
 <tr>
